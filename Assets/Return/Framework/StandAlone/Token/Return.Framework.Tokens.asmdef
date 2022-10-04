@@ -1,0 +1,21 @@
+{
+    "name": "Return.Framework.Tokens",
+    "rootNamespace": "Return",
+    "references": [
+        "GUID:d396c23b061b16149b1ee8565cb78ffc",
+        "GUID:b24faa2e1d1d8cc4fb66d6fac6996c43",
+        "GUID:e378ba92a8e842543a18f1badf9058e1",
+        "GUID:2b7d46d629afe434da7339c76552eaaf",
+        "GUID:bb1baecb91440fd458467c39b6b9d6fc",
+        "GUID:e38cba7246e4c2e46aa94b061313da5a"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

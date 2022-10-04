@@ -1,0 +1,17 @@
+{
+    "name": "Return.Framework.Parameters",
+    "rootNamespace": "",
+    "references": [
+        "GUID:bb1baecb91440fd458467c39b6b9d6fc",
+        "GUID:f51ebe6a0ceec4240a699833d6309b23"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

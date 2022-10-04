@@ -1,0 +1,24 @@
+{
+    "name": "Return.Framework.TNet3",
+    "rootNamespace": "",
+    "references": [
+        "GUID:bb1baecb91440fd458467c39b6b9d6fc",
+        "GUID:2b7d46d629afe434da7339c76552eaaf",
+        "GUID:e378ba92a8e842543a18f1badf9058e1",
+        "GUID:6055be8ebefd69e48b49212b09b47b2f",
+        "GUID:84651a3751eca9349aac36a66bba901b",
+        "GUID:9e24947de15b9834991c9d8411ea37cf",
+        "GUID:68bd7fdb68ef2684e982e8a9825b18a5",
+        "GUID:f51ebe6a0ceec4240a699833d6309b23",
+        "GUID:d2c0cd7b24cfb5748b3d84be89c3f64e"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

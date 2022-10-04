@@ -1,0 +1,23 @@
+{
+    "name": "Return.Framework.Pool",
+    "rootNamespace": "Return",
+    "references": [
+        "GUID:bb1baecb91440fd458467c39b6b9d6fc",
+        "GUID:2b7d46d629afe434da7339c76552eaaf",
+        "GUID:d396c23b061b16149b1ee8565cb78ffc",
+        "GUID:92d7b66ca816bcf418fdb6fd7ed35bae",
+        "GUID:05a99587a5b08394ba31294b6e8057af",
+        "GUID:2dad627cea49257478eff98ffaae2a75",
+        "GUID:059f5ee403530aa41b870e66b564eae7",
+        "GUID:e378ba92a8e842543a18f1badf9058e1"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

@@ -1,0 +1,24 @@
+{
+    "name": "Return.Plugin.Token.Editor",
+    "rootNamespace": "",
+    "references": [
+        "GUID:ecdd60af4744f12428b5c7ed56d63e03",
+        "GUID:17ed681047b35d545bee883c03ac9350",
+        "GUID:1203bdce3e2ce4a49a74efd8e874d7d6",
+        "GUID:b24faa2e1d1d8cc4fb66d6fac6996c43",
+        "GUID:e378ba92a8e842543a18f1badf9058e1",
+        "GUID:0155510e3bdb0e04fbe2c4ce3e31152e",
+        "GUID:e38cba7246e4c2e46aa94b061313da5a"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

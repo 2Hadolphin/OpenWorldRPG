@@ -1,0 +1,1 @@
+﻿public enum CameraSpace { Free,FirstPerson, ThirdPerson, Director, TopDown,UI }

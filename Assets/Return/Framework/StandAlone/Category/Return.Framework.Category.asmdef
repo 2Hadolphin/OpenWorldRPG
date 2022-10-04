@@ -1,0 +1,19 @@
+{
+    "name": "Return.Framework.Category",
+    "rootNamespace": "",
+    "references": [
+        "GUID:bb1baecb91440fd458467c39b6b9d6fc",
+        "GUID:2b7d46d629afe434da7339c76552eaaf",
+        "GUID:e378ba92a8e842543a18f1badf9058e1",
+        "GUID:1203bdce3e2ce4a49a74efd8e874d7d6"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

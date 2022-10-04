@@ -1,0 +1,23 @@
+{
+    "name": "Return.Framework.Inputs",
+    "rootNamespace": "",
+    "references": [
+        "GUID:bb1baecb91440fd458467c39b6b9d6fc",
+        "GUID:2b7d46d629afe434da7339c76552eaaf",
+        "GUID:e378ba92a8e842543a18f1badf9058e1",
+        "GUID:d2c0cd7b24cfb5748b3d84be89c3f64e",
+        "GUID:75469ad4d38634e559750d17036d5f7c",
+        "GUID:7a105dc76237218459226436a45468b9",
+        "GUID:1dced048dfb2efc47a5ef14c01a761c4",
+        "GUID:643bb29741450554f8d81d45c2ff30fb"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

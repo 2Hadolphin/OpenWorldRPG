@@ -1,0 +1,24 @@
+{
+    "name": "MxMMotionMatching",
+    "rootNamespace": "",
+    "references": [
+        "GUID:bb1baecb91440fd458467c39b6b9d6fc",
+        "GUID:d396c23b061b16149b1ee8565cb78ffc",
+        "GUID:8a2eafa29b15f444eb6d74f94a930e1d",
+        "GUID:2665a8d13d1b3f18800f46e256720795",
+        "GUID:d8b63aba1907145bea998dd612889d6b",
+        "GUID:d8e7b33ba1e4a89fc8a64b6b1e97a6ac",
+        "GUID:f06555f75b070af458a003d92f9efb00",
+        "GUID:4307f53044263cf4b835bd812fc161a4",
+        "GUID:2702b94ed25b25fdda2226e5c974e9e8"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

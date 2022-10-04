@@ -1,0 +1,19 @@
+{
+    "name": "Return.Plugin.CozyWeather.Editor",
+    "rootNamespace": "",
+    "references": [
+        "GUID:f886ff307b36e694698086ff4c528612",
+        "GUID:d60799ab2a985554ea1a39cd38695018"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

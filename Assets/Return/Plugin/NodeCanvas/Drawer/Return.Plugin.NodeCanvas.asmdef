@@ -1,0 +1,21 @@
+{
+    "name": "Return.Plugin.NodeCanvas",
+    "rootNamespace": "",
+    "references": [
+        "GUID:2932ffedfacbb1847840a0432d1bfcdb",
+        "GUID:b134867f3cd9e37428b652f97bf28b72",
+        "GUID:d396c23b061b16149b1ee8565cb78ffc",
+        "GUID:bb1baecb91440fd458467c39b6b9d6fc"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

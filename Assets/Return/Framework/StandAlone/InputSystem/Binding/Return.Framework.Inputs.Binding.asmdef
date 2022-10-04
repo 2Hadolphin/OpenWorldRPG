@@ -1,0 +1,24 @@
+{
+    "name": "Return.Framework.Inputs.Binding",
+    "rootNamespace": "",
+    "references": [
+        "GUID:6055be8ebefd69e48b49212b09b47b2f",
+        "GUID:2b7d46d629afe434da7339c76552eaaf",
+        "GUID:bb1baecb91440fd458467c39b6b9d6fc",
+        "GUID:75469ad4d38634e559750d17036d5f7c",
+        "GUID:7a105dc76237218459226436a45468b9",
+        "GUID:5d5e38e74d2e23a479e5779ea462ea4d",
+        "GUID:396257723a08def4c852a9ce37d5d5f0",
+        "GUID:e378ba92a8e842543a18f1badf9058e1",
+        "GUID:643bb29741450554f8d81d45c2ff30fb"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

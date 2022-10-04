@@ -1,0 +1,21 @@
+{
+    "name": "Return.Framework.ModularPreset",
+    "rootNamespace": "",
+    "references": [
+        "GUID:bb1baecb91440fd458467c39b6b9d6fc",
+        "GUID:2b7d46d629afe434da7339c76552eaaf",
+        "GUID:d396c23b061b16149b1ee8565cb78ffc",
+        "GUID:d17735d2b7cf99c48befd261bbc53da2",
+        "GUID:17ed681047b35d545bee883c03ac9350",
+        "GUID:e378ba92a8e842543a18f1badf9058e1"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

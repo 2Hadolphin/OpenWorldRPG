@@ -1,0 +1,19 @@
+{
+    "name": "Return.Plugin.Steam",
+    "rootNamespace": "",
+    "references": [
+        "GUID:53808870d4c554f46bee934257f75aff",
+        "GUID:68bd7fdb68ef2684e982e8a9825b18a5",
+        "GUID:d396c23b061b16149b1ee8565cb78ffc",
+        "GUID:2b7d46d629afe434da7339c76552eaaf"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
