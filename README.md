@@ -17,7 +17,7 @@ https://steamcommunity.com/id/marsllzent/myworkshopfiles/?appid=304930
 ![UTWS Project](https://imgur.com/RsNuFd3.jpg)
 
 
-## Vtuber 
+## Vtuber Toolkit
 
 使用OpenCV等插件<br />
 將即時影像投射到虛擬角色<br />
