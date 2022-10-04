@@ -41,9 +41,8 @@ Low Poly為主視覺的開放世界角色扮演遊戲<br />
 這個專案將保留到業餘時間研究<br />
 等自身能力許可後再繼續完成這個夢想<br />
 
-```
+
 https://youtu.be/C-VWYm5-BiM
-```
 
 ![UTWS Project](https://imgur.com/nGaRIjg.jpg)
 
