@@ -2,5 +2,5 @@
 
 ## Steam workshop 
 
-![UTWS Project](https://imgur.com/RsNuFd3.jpg)
+![UTWS Project](https://imgur.com/RsNuFd3.jpg | width=300)
 
