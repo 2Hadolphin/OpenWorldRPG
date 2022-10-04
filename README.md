@@ -25,7 +25,7 @@ https://steamcommunity.com/id/marsllzent/myworkshopfiles/?appid=304930
 市場上也有大量成熟的競品
 所以封存此專案
 
-![Vtuber Toolkit](https://imgur.com/a/vgXSOGx.jpg)
+![Vtuber Toolkit](https://imgur.com/tlwjFu9.)
 
 ## RPG Framework
 
