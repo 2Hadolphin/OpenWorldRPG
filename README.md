@@ -10,7 +10,7 @@ Steam上總共有5萬人次下載遊玩(在中國被盜版的下載次數則是1
 音效配置<br />
 數值設計<br />
 
-<img src="https://steamcommunity.com/id/marsllzent/myworkshopfiles/?appid=304930" data-canonical-src="https://imgur.com/iCyNFSf.jpg" width="20%" height="20%" />
+<img src="https://imgur.com/iCyNFSf.jpg"  width="20%" height="20%" />(https://steamcommunity.com/id/marsllzent/myworkshopfiles/?appid=304930)
 
 [![SteamWorkshop](https://imgur.com/iCyNFSf.jpg)](https://steamcommunity.com/id/marsllzent/myworkshopfiles/?appid=304930)
 
