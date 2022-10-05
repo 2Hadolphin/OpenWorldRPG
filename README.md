@@ -28,7 +28,7 @@ Steam上總共有5萬人次下載遊玩(在中國被盜版的下載次數則是1
 
 ![Vtuber Toolkit](https://imgur.com/tlwjFu9.jpg)
 
-![Vtuber Toolkit](https://drive.google.com/uc?export=view&id=1mnnpbcuP8AwGhwqjXzqI4z-1HpWpCzgG)
+![Vtuber Toolkit](https://drive.google.com/uc?export=view&id=1mnnpbcuP8AwGhwqjXzqI4z-1HpWpCzgG.jpg)
 
 <br />
 <br />
