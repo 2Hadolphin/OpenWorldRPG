@@ -10,9 +10,7 @@ Steam上總共有5萬人次下載遊玩(在中國被盜版的下載次數則是1
 音效配置<br />
 數值設計<br />
 
-
-https://steamcommunity.com/id/marsllzent/myworkshopfiles/?appid=304930
-
+[![SteamWorkshop](https://imgur.com/iCyNFSf.jpg)](https://steamcommunity.com/id/marsllzent/myworkshopfiles/?appid=304930)
 
 ![UTWS Project](https://imgur.com/RsNuFd3.jpg)
 
@@ -41,8 +39,6 @@ Low Poly為主視覺的開放世界角色扮演遊戲<br />
 這個專案將保留到業餘時間研究<br />
 等自身能力許可後再繼續完成這個夢想<br />
 
-
-https://youtu.be/C-VWYm5-BiM
 
 ![Return Project](https://imgur.com/nGaRIjg.jpg)
 
