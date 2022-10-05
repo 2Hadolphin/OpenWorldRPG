@@ -27,8 +27,9 @@ Steam上總共有5萬人次下載遊玩(在中國被盜版的下載次數則是1
 所以封存此專案<br />
 
 ![Vtuber Toolkit](https://imgur.com/tlwjFu9.jpg)
+<img src="https://imgur.com/tlwjFu9.jpg" alt="Vtuber Toolkit" width="80%"/>
+<img src="https://i.imgur.com/d45Eebn.png" alt="Imgur" width="80%"/>
 
-![Imgur](https://i.imgur.com/d45Eebn.png)
 
 
 
