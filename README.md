@@ -31,6 +31,8 @@ Steam上總共有5萬人次下載遊玩(在中國被盜版的下載次數則是1
 <img src="https://i.imgur.com/d45Eebn.png" alt="Imgur" height="80%" width="80%"/>
 </div>
 
+<br />
+<br />
 
 ## RPG Framework
 
