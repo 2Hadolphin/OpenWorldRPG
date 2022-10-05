@@ -10,7 +10,7 @@ Steam上總共有5萬人次下載遊玩(在中國被盜版的下載次數則是1
 音效配置<br />
 數值設計<br />
 
-<img src="https://camo.githubusercontent.com/..." data-canonical-src="https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png" width="50%" height="50%" />
+<img src="https://imgur.com/iCyNFSf.jpg" data-canonical-src="https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png" width="50%" height="50%" />
 
 [![SteamWorkshop](https://imgur.com/iCyNFSf.jpg)](https://steamcommunity.com/id/marsllzent/myworkshopfiles/?appid=304930)
 
